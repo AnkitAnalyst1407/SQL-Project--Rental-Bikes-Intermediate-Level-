@@ -1,2 +1,10 @@
 # SQL-Project--Rental-Bikes-Intermediate-Level-
-Rental Bike Shop SQL Analysis 🚴‍♂️💼  Dive into the data behind a bike rental business! This project showcases SQL skills to manage bike inventory, analyze customer rentals, track revenue, and generate insightful business reports. Perfect for data enthusiasts and SQL learners! 🔍📊
+This project involves designing and querying a SQL database for a bike rental shop. The database includes tables for bikes, customers, memberships, and rentals. Key functionalities include:
+
+-Managing bike inventory and availability by category.
+-Analyzing customer rental patterns and revenue generation.
+-Segmenting customers based on rental history.
+-Generating detailed reports for memberships, rentals, and shop performance.
+Through a series of SQL queries, this project demonstrates advanced concepts such as joins, aggregate functions, conditional filtering, and grouping to provide actionable insights for the bike rental business.
+
+
